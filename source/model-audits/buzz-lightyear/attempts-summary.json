@@ -1,0 +1,29 @@
+{
+  "attempts": [
+    {
+      "attempt_id": "attempt-serving-repair",
+      "classification": "serving_fixed",
+      "result": "VRM served instead of Vite HTML fallback.",
+      "targeted_change": "Created ignored public symlink to generated VRM for browser retry."
+    },
+    {
+      "attempt_id": "attempt-visual-qa-serving-fixed-vrm-required-bones",
+      "attempt_manifest": "model-working/buzz-lightyear/attempts/attempt-visual-qa-serving-fixed-vrm-required-bones/attempt-manifest.json",
+      "blockers": [
+        "missing_humanoid_required_bones",
+        "generic_bone_tree",
+        "manual_mapping_needed"
+      ],
+      "browser_smoke": "fail",
+      "classification": "blocked_required_bones",
+      "visual_review": "fail"
+    }
+  ],
+  "best_attempt_id": "",
+  "category": "deferred_humanoid",
+  "created_at": "2026-06-11T23:21:07+00:00",
+  "display_name": "Buzz Lightyear",
+  "final_classification": "deferred_manual_rig_repair",
+  "schema_version": "posepuppet-attempts-summary-v2",
+  "slug": "buzz-lightyear"
+}

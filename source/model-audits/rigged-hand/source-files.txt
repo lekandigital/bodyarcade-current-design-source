@@ -1,0 +1,18 @@
+# Source files for Rigged Hand
+
+Selected source: rigged-hand.zip!/source/handRig_02.fbx
+Best conversion source: rigged-hand.zip!/source/handRig_02.fbx
+Runtime GLB companion: rigged_hand.glb
+Target VRM path: public/avatars/rigged-hand.vrm
+
+## All known variants
+
+- `rigged-hand.zip`
+- `rigged-hand.zip!/source/handRig_02.fbx`
+- `rigged_hand (1).glb`
+- `rigged_hand.glb`
+
+## Notes
+
+- Original binaries, textures, ZIPs, screenshots, contact sheets, and converted VRMs are not included in handoff files.
+- Use source-lock hashes before trusting this audit after model files change.

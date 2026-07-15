@@ -1,0 +1,17 @@
+# Source files for Buzz Lightyear
+
+Selected source: adi-20-buzz-lightyear-fully-rigged.zip!/source/Buzz Lightyear.blend
+Best conversion source: adi-20-buzz-lightyear-fully-rigged.zip!/source/Buzz Lightyear.blend
+Runtime GLB companion: adi_2.0_buzz_lightyear_fully_rigged.glb
+Target VRM path: public/avatars/buzz-lightyear.vrm
+
+## All known variants
+
+- `adi-20-buzz-lightyear-fully-rigged.zip`
+- `adi-20-buzz-lightyear-fully-rigged.zip!/source/Buzz Lightyear.blend`
+- `adi_2.0_buzz_lightyear_fully_rigged.glb`
+
+## Notes
+
+- Original binaries, textures, ZIPs, screenshots, contact sheets, and converted VRMs are not included in handoff files.
+- Use source-lock hashes before trusting this audit after model files change.

@@ -1,0 +1,220 @@
+{
+  "attempt_id": "attempt-001-baseline",
+  "created_at": "2026-06-11T18:11:49+00:00",
+  "pose_tests": [
+    {
+      "applied": false,
+      "bones_driven": [],
+      "expected_visual": "pose proxy should be readable without detached geometry",
+      "measured": {
+        "bounds_changed": false,
+        "detached_meshes_detected": [],
+        "extreme_scale_or_explosion_detected": false,
+        "missing_bones": [],
+        "warnings": [
+          "visual screenshot review not available"
+        ]
+      },
+      "pose_name": "neutral",
+      "reason": "creature profile runtime does not exist yet",
+      "result": "not_tested",
+      "visual_review": "not_available"
+    },
+    {
+      "applied": false,
+      "bones_driven": [],
+      "expected_visual": "pose proxy should be readable without detached geometry",
+      "measured": {
+        "bounds_changed": false,
+        "detached_meshes_detected": [],
+        "extreme_scale_or_explosion_detected": false,
+        "missing_bones": [],
+        "warnings": [
+          "visual screenshot review not available"
+        ]
+      },
+      "pose_name": "head_turn",
+      "reason": "creature profile runtime does not exist yet",
+      "result": "not_tested",
+      "visual_review": "not_available"
+    },
+    {
+      "applied": false,
+      "bones_driven": [],
+      "expected_visual": "pose proxy should be readable without detached geometry",
+      "measured": {
+        "bounds_changed": false,
+        "detached_meshes_detected": [],
+        "extreme_scale_or_explosion_detected": false,
+        "missing_bones": [],
+        "warnings": [
+          "visual screenshot review not available"
+        ]
+      },
+      "pose_name": "torso_lean",
+      "reason": "creature profile runtime does not exist yet",
+      "result": "not_tested",
+      "visual_review": "not_available"
+    },
+    {
+      "applied": false,
+      "bones_driven": [],
+      "expected_visual": "pose proxy should be readable without detached geometry",
+      "measured": {
+        "bounds_changed": false,
+        "detached_meshes_detected": [],
+        "extreme_scale_or_explosion_detected": false,
+        "missing_bones": [],
+        "warnings": [
+          "visual screenshot review not available"
+        ]
+      },
+      "pose_name": "front_limb_raise",
+      "reason": "creature profile runtime does not exist yet",
+      "result": "not_tested",
+      "visual_review": "not_available"
+    },
+    {
+      "applied": false,
+      "bones_driven": [],
+      "expected_visual": "pose proxy should be readable without detached geometry",
+      "measured": {
+        "bounds_changed": false,
+        "detached_meshes_detected": [],
+        "extreme_scale_or_explosion_detected": false,
+        "missing_bones": [],
+        "warnings": [
+          "visual screenshot review not available"
+        ]
+      },
+      "pose_name": "jaw_open",
+      "reason": "creature profile runtime does not exist yet",
+      "result": "not_tested",
+      "visual_review": "not_available"
+    },
+    {
+      "applied": false,
+      "bones_driven": [],
+      "expected_visual": "pose proxy should be readable without detached geometry",
+      "measured": {
+        "bounds_changed": false,
+        "detached_meshes_detected": [],
+        "extreme_scale_or_explosion_detected": false,
+        "missing_bones": [],
+        "warnings": [
+          "visual screenshot review not available"
+        ]
+      },
+      "pose_name": "tail_swing",
+      "reason": "creature profile runtime does not exist yet",
+      "result": "not_tested",
+      "visual_review": "not_available"
+    },
+    {
+      "applied": false,
+      "bones_driven": [],
+      "expected_visual": "pose proxy should be readable without detached geometry",
+      "measured": {
+        "bounds_changed": false,
+        "detached_meshes_detected": [],
+        "extreme_scale_or_explosion_detected": false,
+        "missing_bones": [],
+        "warnings": [
+          "visual screenshot review not available"
+        ]
+      },
+      "pose_name": "root_motion_proxy",
+      "reason": "creature profile runtime does not exist yet",
+      "result": "not_tested",
+      "visual_review": "not_available"
+    },
+    {
+      "applied": false,
+      "bones_driven": [],
+      "expected_visual": "pose proxy should be readable without detached geometry",
+      "measured": {
+        "bounds_changed": false,
+        "detached_meshes_detected": [],
+        "extreme_scale_or_explosion_detected": false,
+        "missing_bones": [],
+        "warnings": [
+          "visual screenshot review not available"
+        ]
+      },
+      "pose_name": "gesture_to_intent_pose",
+      "reason": "creature profile runtime does not exist yet",
+      "result": "not_tested",
+      "visual_review": "not_available"
+    }
+  ],
+  "runtime_profile": "creature",
+  "schema_version": "posepuppet-pose-suite-validation-v1",
+  "slug": "godzilla",
+  "source": "audit-only",
+  "source_preview_pose_suite": {
+    "contact_sheet": "model-working/godzilla/source-preview/contact-sheet.png",
+    "created_at": "2026-06-11T23:21:07+00:00",
+    "notes": [
+      "Source pose suite is a feasibility probe, not a browser runtime implementation."
+    ],
+    "pose_render_count": 4,
+    "pose_tests": [
+      {
+        "matched_bone_count": 4,
+        "matched_bones_sample": [
+          "neckJA_JNT_6_7",
+          "neckJB_JNT_5_6",
+          "neckJC_JNT_0_1",
+          "headJA_JNT_4_5"
+        ],
+        "pose_name": "creature_head_turn",
+        "result": "pass",
+        "screenshot_path": "model-working/godzilla/source-preview/screenshots/pose-creature_head_turn.png"
+      },
+      {
+        "matched_bone_count": 4,
+        "matched_bones_sample": [
+          "l_armJA_JNT_26_27",
+          "l_armJAroll_JNT_25_26",
+          "r_armJA_JNT_47_48",
+          "r_armJAroll_JNT_46_47"
+        ],
+        "pose_name": "creature_arm_raise",
+        "result": "pass",
+        "screenshot_path": "model-working/godzilla/source-preview/screenshots/pose-creature_arm_raise.png"
+      },
+      {
+        "matched_bone_count": 38,
+        "matched_bones_sample": [
+          "tailJA_JNT_91_92",
+          "tailJB_JNT_90_91",
+          "tailJC_JNT_89_90",
+          "tailJD_JNT_88_89",
+          "tailJE_JNT_87_88",
+          "tailJF_JNT_86_87",
+          "tailJG_JNT_85_86",
+          "tailJH_JNT_84_85",
+          "tailJI_JNT_83_84",
+          "tailJJ_JNT_82_83",
+          "tailJK_JNT_81_82",
+          "tailJL_JNT_80_81"
+        ],
+        "pose_name": "creature_tail_sway",
+        "result": "pass",
+        "screenshot_path": "model-working/godzilla/source-preview/screenshots/pose-creature_tail_sway.png"
+      },
+      {
+        "matched_bone_count": 1,
+        "matched_bones_sample": [
+          "jawJA_JNT_1_2"
+        ],
+        "pose_name": "creature_jaw_open",
+        "result": "pass",
+        "screenshot_path": "model-working/godzilla/source-preview/screenshots/pose-creature_jaw_open.png"
+      }
+    ],
+    "source": "source-glb-blender-preview"
+  },
+  "status": "pass",
+  "visual_review": "pass"
+}

@@ -1,0 +1,18 @@
+# Source files for Xenomorph
+
+Selected source: realistic-xenomorph-rig.zip!/source/Xenomorph Default.fbx
+Best conversion source: realistic-xenomorph-rig.zip!/source/Xenomorph Default.fbx
+Runtime GLB companion: realistic_xenomorph_rig.glb
+Target VRM path: public/avatars/xenomorph.vrm
+
+## All known variants
+
+- `realistic-xenomorph-rig.zip`
+- `realistic-xenomorph-rig.zip!/source/Xenomorph Default.fbx`
+- `realistic_xenomorph_rig (1).glb`
+- `realistic_xenomorph_rig.glb`
+
+## Notes
+
+- Original binaries, textures, ZIPs, screenshots, contact sheets, and converted VRMs are not included in handoff files.
+- Use source-lock hashes before trusting this audit after model files change.

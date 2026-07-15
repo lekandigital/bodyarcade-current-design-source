@@ -1,0 +1,104 @@
+node_modules/
+dist/
+.venv/
+__pycache__/
+*.pyc
+
+# NEVER commit fixtures — personal camera footage (mission non-negotiable)
+fixtures/
+
+# Downloaded/local character source material for audit only.
+# Keep generated reports under model-audits/ trackable.
+ModelsForAnimation/
+ModelsForAnimation
+models_for_animation/
+models_for_animation
+*.blend
+*.fbx
+*.glb
+*.gltf
+*.vrm
+*.obj
+*.dae
+*.stl
+*.zip
+*.rar
+*.7z
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.tga
+*.bmp
+*.tif
+*.tiff
+*.exr
+!model-audits/**/*.md
+!model-audits/**/*.json
+!model-audits/**/bone-tree.txt
+!model-audits/**/source-files.txt
+!model-audits/**/warnings.md
+model-audits/**/*.log
+
+# Generated at install time (postinstall copies/downloads these)
+public/mediapipe-wasm/
+public/models/
+
+# Avatar binaries stay local/private during audits unless the user explicitly
+# approves a specific runtime VRM for commit.
+public/avatars/*.glb
+public/avatars/*.fbx
+public/avatars/*.gltf
+public/avatars/*.blend
+public/avatars/textures/
+
+# Generated candidate VRMs — test-only, never committed
+public/avatars/generated/
+public/avatars/generated/*.vrm
+model-working/
+
+# Test/eval transients (eval/results.json IS committed)
+test-results/
+playwright-report/
+recordings/
+media/
+
+.DS_Store
+*.local
+.vercel
+
+# woody.vrm: fan-made rig of a licensed character — local-only, never
+# redistributed (Gate 1 decision, 2026-06-12). Registry hides it when absent.
+public/avatars/woody.vrm
+
+# Design-gate mockup screenshots: synthetic content only, no personal footage
+!design/mockups/*.png
+
+# Sensitive notes, do not commit
+LICENSE_NOTES.md
+
+# private body-control fixture videos
+fixtures/flight/*.mp4
+fixtures/flight/*.mov
+
+# private permission records
+LICENSE_NOTES.local.md
+PERMISSION.local.md
+permissions.local.md
+
+# BodyArcade Flight (apps/flight): forked TinySkies assets are tracked —
+# the global binary-extension ignores above must not swallow them
+!apps/flight/**/*.png
+!apps/flight/**/*.jpg
+!apps/flight/**/*.jpeg
+!apps/flight/**/*.webp
+!apps/flight/**/*.glb
+!apps/flight/**/*.gltf
+
+# Remote development — local-only state and artifacts
+.local/
+*.bundle
+CLAUDE.local.md
+.env.remote.local
+REMOTE_SETUP_REPORT.local.md
+FABLE_REMOTE_HANDOFF.local.md

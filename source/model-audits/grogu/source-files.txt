@@ -1,0 +1,18 @@
+# Source files for Grogu
+
+Selected source: the-mandalorian-grogu-advanced-rig.zip!/source/Grogurig.blend
+Best conversion source: the-mandalorian-grogu-advanced-rig.zip!/source/Grogurig.blend
+Runtime GLB companion: the_mandalorian_grogu_advanced_rig.glb
+Target VRM path: public/avatars/grogu.vrm
+
+## All known variants
+
+- `the-mandalorian-grogu-advanced-rig.zip`
+- `the-mandalorian-grogu-advanced-rig.zip!/source/Grogurig.blend`
+- `the_mandalorian_grogu_advanced_rig (1).glb`
+- `the_mandalorian_grogu_advanced_rig.glb`
+
+## Notes
+
+- Original binaries, textures, ZIPs, screenshots, contact sheets, and converted VRMs are not included in handoff files.
+- Use source-lock hashes before trusting this audit after model files change.

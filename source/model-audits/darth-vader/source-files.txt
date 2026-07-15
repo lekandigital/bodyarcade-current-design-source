@@ -1,0 +1,20 @@
+# Source files for Darth Vader
+
+Selected source: fortnite-darth-vader-advanced-rig.zip!/source/darthvaderrig.blend
+Best conversion source: fortnite-darth-vader-advanced-rig.zip!/source/darthvaderrig.blend
+Runtime GLB companion: fortnite_darth_vader_advanced_rig (2).glb
+Target VRM path: public/avatars/darth-vader.vrm
+
+## All known variants
+
+- `fortnite-darth-vader-advanced-rig.zip`
+- `fortnite-darth-vader-advanced-rig.zip!/source/darthvaderrig.blend`
+- `fortnite_darth_vader_advanced_rig (1).glb`
+- `fortnite_darth_vader_advanced_rig (2).glb`
+- `fortnite_darth_vader_advanced_rig (3).glb`
+- `fortnite_darth_vader_advanced_rig.glb`
+
+## Notes
+
+- Original binaries, textures, ZIPs, screenshots, contact sheets, and converted VRMs are not included in handoff files.
+- Use source-lock hashes before trusting this audit after model files change.

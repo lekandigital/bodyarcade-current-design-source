@@ -1,0 +1,18 @@
+# Source files for Fortnite Batman
+
+Selected source: fortnite-batman-advanced-rig.zip!/source/BATMANRIG.blend
+Best conversion source: fortnite-batman-advanced-rig.zip!/source/BATMANRIG.blend
+Runtime GLB companion: fortnite_batman_advanced_rig.glb
+Target VRM path: public/avatars/fortnite-batman.vrm
+
+## All known variants
+
+- `fortnite-batman-advanced-rig.zip`
+- `fortnite-batman-advanced-rig.zip!/source/BATMANRIG.blend`
+- `fortnite_batman_advanced_rig (1).glb`
+- `fortnite_batman_advanced_rig.glb`
+
+## Notes
+
+- Original binaries, textures, ZIPs, screenshots, contact sheets, and converted VRMs are not included in handoff files.
+- Use source-lock hashes before trusting this audit after model files change.

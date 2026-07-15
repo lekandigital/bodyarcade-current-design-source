@@ -1,0 +1,18 @@
+# Source files for Teal v2
+
+Selected source: teal-v2.zip!/source/Tealv2.fbx
+Best conversion source: teal-v2.zip!/source/Tealv2.fbx
+Runtime GLB companion: teal_v.2.glb
+Target VRM path: public/avatars/teal-v2.vrm
+
+## All known variants
+
+- `teal-v2.zip`
+- `teal-v2.zip!/source/Tealv2.fbx`
+- `teal_v.2 (1).glb`
+- `teal_v.2.glb`
+
+## Notes
+
+- Original binaries, textures, ZIPs, screenshots, contact sheets, and converted VRMs are not included in handoff files.
+- Use source-lock hashes before trusting this audit after model files change.

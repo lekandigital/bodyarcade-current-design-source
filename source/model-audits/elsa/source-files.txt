@@ -1,0 +1,24 @@
+# Source files for Elsa
+
+Selected source: elsa-free-fall-frozen-with-rig-included (1).zip!/source/elsa free fall.zip!/Elsa (merge).glb
+Best conversion source: elsa-free-fall-frozen-with-rig-included (1).zip!/source/elsa free fall.zip!/Elsa (merge).glb
+Runtime GLB companion: elsa_free_fall_frozen_with_rig_included (2).glb
+Target VRM path: public/avatars/elsa.vrm
+
+## All known variants
+
+- `elsa-free-fall-frozen-with-rig-included (1).zip`
+- `elsa-free-fall-frozen-with-rig-included (1).zip!/source/elsa free fall.zip!/Elsa (merge).glb`
+- `elsa-free-fall-frozen-with-rig-included (2).zip`
+- `elsa-free-fall-frozen-with-rig-included (2).zip!/source/elsa free fall.zip!/Elsa (merge).glb`
+- `elsa-free-fall-frozen-with-rig-included.zip`
+- `elsa-free-fall-frozen-with-rig-included.zip!/source/elsa free fall.zip!/Elsa (merge).glb`
+- `elsa_free_fall_frozen_with_rig_included (1).glb`
+- `elsa_free_fall_frozen_with_rig_included (2).glb`
+- `elsa_free_fall_frozen_with_rig_included (3).glb`
+- `elsa_free_fall_frozen_with_rig_included.glb`
+
+## Notes
+
+- Original binaries, textures, ZIPs, screenshots, contact sheets, and converted VRMs are not included in handoff files.
+- Use source-lock hashes before trusting this audit after model files change.

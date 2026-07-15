@@ -1,0 +1,66 @@
+{
+  "active_candidate": {
+    "browser_smoke": "fail",
+    "contact_sheet": "model-working/elsa/visual-review/contact-sheet.png",
+    "registry_decision": "not_registered",
+    "visual_review": "fail"
+  },
+  "blockers": [
+    "missing_spine",
+    "missing_left_leg_chain",
+    "missing_right_leg_chain",
+    "missing_feet"
+  ],
+  "body_tracking": {
+    "arms": "disabled",
+    "feet": "disabled",
+    "head": "disabled",
+    "legs": "disabled",
+    "root_motion": "disabled",
+    "torso": "disabled"
+  },
+  "created_at": "2026-06-11T23:21:07+00:00",
+  "disabled_controls": [
+    "face_anchors",
+    "feet",
+    "fingers",
+    "leftLowerLeg",
+    "leftUpperLeg",
+    "rightLowerLeg",
+    "rightUpperLeg",
+    "root_motion",
+    "shoulders",
+    "toes"
+  ],
+  "display_name": "Elsa",
+  "enabled_controls": [],
+  "face_touch": {
+    "mode": "ik_required",
+    "notes": [
+      "IK and visual validation required before support claim."
+    ],
+    "safe_first_gesture": "hand_to_cheek",
+    "visual_result": "not_available"
+  },
+  "game_modes": {
+    "flying": "defer",
+    "gesture_to_intent": "not_recommended",
+    "rowing": "defer",
+    "walking": "defer"
+  },
+  "hand_tracking": {
+    "finger_chains": "partial",
+    "left_hand": "supported",
+    "mode": "palm_only",
+    "right_hand": "supported"
+  },
+  "notes": [
+    "Generated candidates remain query-param-only and excluded from public avatar cycling."
+  ],
+  "quality_label": "deferred_manual_rig_repair",
+  "runtime_profile": "deferred",
+  "schema_version": "posepuppet-runtime-capability-profile-v3",
+  "slug": "elsa",
+  "warning_label": "defer",
+  "warning_text": "Deferred until conversion, validation, visual review, and browser smoke pass."
+}

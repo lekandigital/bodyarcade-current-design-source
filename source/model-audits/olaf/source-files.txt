@@ -1,0 +1,18 @@
+# Source files for Olaf
+
+Selected source: olaf-3d-rigged.zip!/source/OlafRig.blend
+Best conversion source: olaf-3d-rigged.zip!/source/OlafRig.blend
+Runtime GLB companion: olaf_3d_rigged.glb
+Target VRM path: public/avatars/olaf.vrm
+
+## All known variants
+
+- `olaf-3d-rigged.zip`
+- `olaf-3d-rigged.zip!/source/OlafRig.blend`
+- `olaf_3d_rigged (1).glb`
+- `olaf_3d_rigged.glb`
+
+## Notes
+
+- Original binaries, textures, ZIPs, screenshots, contact sheets, and converted VRMs are not included in handoff files.
+- Use source-lock hashes before trusting this audit after model files change.

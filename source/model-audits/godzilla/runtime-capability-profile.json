@@ -1,0 +1,68 @@
+{
+  "active_candidate": {
+    "browser_smoke": "not_registered",
+    "contact_sheet": "model-working/godzilla/source-preview/contact-sheet.png",
+    "registry_decision": "not_registered",
+    "visual_review": "pass"
+  },
+  "blockers": [
+    "custom_creature_runtime_needed"
+  ],
+  "body_tracking": {
+    "arms": "disabled",
+    "feet": "disabled",
+    "head": "disabled",
+    "legs": "disabled",
+    "root_motion": "disabled",
+    "torso": "disabled"
+  },
+  "created_at": "2026-06-11T23:21:07+00:00",
+  "disabled_controls": [
+    "chest",
+    "creature_jaw",
+    "custom_profile_runtime",
+    "face_anchors",
+    "feet",
+    "fingers",
+    "hips",
+    "leftLowerArm",
+    "leftUpperLeg",
+    "rightLowerArm",
+    "rightUpperLeg",
+    "root_motion",
+    "shoulders",
+    "tail",
+    "toes"
+  ],
+  "display_name": "Godzilla",
+  "enabled_controls": [],
+  "face_touch": {
+    "mode": "disabled",
+    "notes": [
+      "IK and visual validation required before support claim."
+    ],
+    "safe_first_gesture": "none",
+    "visual_result": "not_available"
+  },
+  "game_modes": {
+    "flying": "partial",
+    "gesture_to_intent": "recommended",
+    "rowing": "partial",
+    "walking": "partial"
+  },
+  "hand_tracking": {
+    "finger_chains": "partial",
+    "left_hand": "supported",
+    "mode": "palm_only",
+    "right_hand": "supported"
+  },
+  "notes": [
+    "Generated candidates remain query-param-only and excluded from public avatar cycling."
+  ],
+  "quality_label": "creature_preview_pass",
+  "runtime_profile": "creature",
+  "schema_version": "posepuppet-runtime-capability-profile-v3",
+  "slug": "godzilla",
+  "warning_label": "creature_profile_needed",
+  "warning_text": "Creature asset needs a custom profile or static preview path before runtime use."
+}
